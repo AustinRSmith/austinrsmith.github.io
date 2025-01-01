@@ -1,11 +1,10 @@
 ---
 title: "Investigating the interhemispheric asymmetry in Joule heating during the 2013 St. Patrick's Day geomagnetic storm"
 permalink: /publication/2023-09-05-paper-title-number-1
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper is about...'
 collection: publications
 date: 2023-09-05
 venue: 'Space Weather'
-slidesurl: ''
 paperurl: 'http://agupubs.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1029%2F2023SW003523'
 citation: 'Smith, A. R., Ozturk, D. S., Delamere, P., Lu, G., &amp; Kim, H. (2023). &quot;Investigating the interhemispheric asymmetry in Joule heating during the 2013 St. Patrick&apos;s Day geomagnetic storm.&quot; <i>Space Weather</i>, 21, e2023SW003523. https://doi.org/10.1029/2023SW003523'
 ---
