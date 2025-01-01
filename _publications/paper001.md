@@ -1,5 +1,7 @@
 ---
 title: "Investigating the interhemispheric asymmetry in Joule heating during the 2013 St. Patrick&apost;s Day geomagnetic storm"
+permalink: /publication/2023-09-05-paper-title-number-1
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 collection: publications
 date: 2023-09-05
 venue: 'Space Weather'
