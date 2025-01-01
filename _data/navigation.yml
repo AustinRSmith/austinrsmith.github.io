@@ -8,15 +8,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Outreach"
-    url: /portfolio/
         
   - title: "Postcards"
-    url: /year-archive/
+    url: /portfolio/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
